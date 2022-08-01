@@ -1,0 +1,288 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\fox6s\OneDrive\Desktop\Spring 2022\CSCE 546\SleepTrackerFP\SleepTracker\app\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from C:\Users\fox6s\OneDrive\Desktop\Spring 2022\CSCE 546\SleepTrackerFP\SleepTracker\app\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from C:\Users\fox6s\OneDrive\Desktop\Spring 2022\CSCE 546\SleepTrackerFP\SleepTracker\app\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from C:\Users\fox6s\OneDrive\Desktop\Spring 2022\CSCE 546\SleepTrackerFP\SleepTracker\app\src\main\AndroidManifest.xml:2:1-24:12
+MERGED from [androidx.databinding:databinding-adapters:4.1.0] C:\Users\fox6s\.gradle\caches\transforms-2\files-2.1\9b46894b7cad23c90a06337af1be3a79\databinding-adapters-4.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.databinding:databinding-runtime:4.1.0] C:\Users\fox6s\.gradle\caches\transforms-2\files-2.1\79e7664daf3b68488489f3b78a41fa7c\databinding-runtime-4.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.2] C:\Users\fox6s\.gradle\caches\transforms-2\files-2.1\cbb457776a0c14046844d7bef9da6120\constraintlayout-2.0.2\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.navigation:navigation-ui-ktx:2.0.0] C:\Users\fox6s\.gradle\caches\transforms-2\files-2.1\bc170dcc14c4653578a71b07c382e094\navigation-ui-ktx-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.navigation:navigation-ui:2.0.0] C:\Users\fox6s\.gradle\caches\transforms-2\files-2.1\0a749ac22e533e375004d2cfe0aa07f8\navigation-ui-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\fox6s\.gradle\caches\transforms-2\files-2.1\6313674d6cdff6678cb976c21c941c42\material-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat:1.2.0] C:\Users\fox6s\.gradle\caches\transforms-2\files-2.1\fda540508b1510d0c46ab14a4b940fca\appcompat-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment-ktx:1.2.5] C:\Users\fox6s\.gradle\caches\transforms-2\files-2.1\018324eec136f5d95af553f57c18175e\jetified-fragment-ktx-1.2.5\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity-ktx:1.1.0] C:\Users\fox6s\.gradle\caches\transforms-2\files-2.1\ef5c7e061d98bc322cdff43db0526d15\jetified-activity-ktx-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core-ktx:1.3.2] C:\Users\fox6s\.gradle\caches\transforms-2\files-2.1\395f7786d33fedd6c0ea0d3a2c940bbf\jetified-core-ktx-1.3.2\AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.room:room-ktx:2.2.5] C:\Users\fox6s\.gradle\caches\transforms-2\files-2.1\de77ed8435859d935cf24c984747e9a0\jetified-room-ktx-2.2.5\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.room:room-runtime:2.2.5] C:\Users\fox6s\.gradle\caches\transforms-2\files-2.1\dd9bcf731148a5cfdde922fa0b85a3f9\room-runtime-2.2.5\AndroidManifest.xml:17:1-31:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\fox6s\.gradle\caches\transforms-2\files-2.1\35c0755f23fdec51828f83b8f0b3ad15\legacy-support-v4-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] C:\Users\fox6s\.gradle\caches\transforms-2\files-2.1\e1c4769f6a235902d0c8498480aaea2b\lifecycle-extensions-2.2.0\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.2.0] C:\Users\fox6s\.gradle\caches\transforms-2\files-2.1\753e36924b6a0fa275ea79ea6c52778f\jetified-lifecycle-viewmodel-ktx-2.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.2.0] C:\Users\fox6s\.gradle\caches\transforms-2\files-2.1\d8cdb9a01c952b4ea2497eaac074acad\jetified-lifecycle-runtime-ktx-2.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-fragment-ktx:2.0.0] C:\Users\fox6s\.gradle\caches\transforms-2\files-2.1\87a7535e89392a424626627e9e5fa1e1\navigation-fragment-ktx-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.databinding:viewbinding:4.1.0] C:\Users\fox6s\.gradle\caches\transforms-2\files-2.1\75ead458e36dffbb8a55caf133889e39\jetified-viewbinding-4.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] C:\Users\fox6s\.gradle\caches\transforms-2\files-2.1\be88c65efe134d7c92d603fc6abab799\jetified-appcompat-resources-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\fox6s\.gradle\caches\transforms-2\files-2.1\2b451bb2884a33bf17f68f63485ebc72\recyclerview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\fox6s\.gradle\caches\transforms-2\files-2.1\d967de4bbb9240374f44f1e48ff67dc2\legacy-support-core-ui-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\fox6s\.gradle\caches\transforms-2\files-2.1\d1cb4878ec7c5c1b85166c0929ee2847\drawerlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.navigation:navigation-fragment:2.0.0] C:\Users\fox6s\.gradle\caches\transforms-2\files-2.1\d64275a05c3b916e1b500adee37a8d27\navigation-fragment-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment:1.2.5] C:\Users\fox6s\.gradle\caches\transforms-2\files-2.1\879e4ce029786b908297660debf38c6f\fragment-1.2.5\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.media:media:1.0.0] C:\Users\fox6s\.gradle\caches\transforms-2\files-2.1\072501fd199012cc729bb8ccfa5f3f15\media-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.0.0] C:\Users\fox6s\.gradle\caches\transforms-2\files-2.1\ea94c84cae0973664d75488467b98955\navigation-runtime-ktx-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.navigation:navigation-runtime:2.0.0] C:\Users\fox6s\.gradle\caches\transforms-2\files-2.1\2bcf98ff4bddcbcf214961beed67d105\navigation-runtime-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\fox6s\.gradle\caches\transforms-2\files-2.1\dc60b17551ac443af24c83866f97287d\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\fox6s\.gradle\caches\transforms-2\files-2.1\870e764a2daec768ab02585699cc6cfd\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\fox6s\.gradle\caches\transforms-2\files-2.1\12ddd7f4a0e10b0ef584c412d9f5ed52\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\fox6s\.gradle\caches\transforms-2\files-2.1\e63e50220a433b33c30343f520e76616\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\fox6s\.gradle\caches\transforms-2\files-2.1\866c0bacb481e703e473cc346f67106b\coordinatorlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\fox6s\.gradle\caches\transforms-2\files-2.1\26c14a327b314599f8442fe1b3e87751\slidingpanelayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\fox6s\.gradle\caches\transforms-2\files-2.1\4854175b4a14401129bad1fc2ccf1bf6\customview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\fox6s\.gradle\caches\transforms-2\files-2.1\f8dd099778ea5183d283b407e7f911d3\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.1.0] C:\Users\fox6s\.gradle\caches\transforms-2\files-2.1\8364decd45b54552e0d8466d8b1d67a8\jetified-activity-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\fox6s\.gradle\caches\transforms-2\files-2.1\17d3af4422ee31e12ac2e0f28230d7fc\swiperefreshlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\fox6s\.gradle\caches\transforms-2\files-2.1\d80bf2ad9db8e5d4851acbab0b50016a\asynclayoutinflater-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.navigation:navigation-common-ktx:2.0.0] C:\Users\fox6s\.gradle\caches\transforms-2\files-2.1\6100d47069c580c1f60f086083763b65\navigation-common-ktx-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.navigation:navigation-common:2.0.0] C:\Users\fox6s\.gradle\caches\transforms-2\files-2.1\d5eec24373b476f487639b3d8d50396d\navigation-common-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.0.0] C:\Users\fox6s\.gradle\caches\transforms-2\files-2.1\e87fb08f372e50f50ad7444dfe9087e1\transition-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.3.2] C:\Users\fox6s\.gradle\caches\transforms-2\files-2.1\9aa2b8ea9b71bb555b0ecf503d5f1caf\core-1.3.2\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\fox6s\.gradle\caches\transforms-2\files-2.1\27d38f6588bb09b95df2f2a0cdcdb99d\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:17:1-32:12
+MERGED from [androidx.lifecycle:lifecycle-service:2.2.0] C:\Users\fox6s\.gradle\caches\transforms-2\files-2.1\6fdb02501027a1f1b65624806d68657f\jetified-lifecycle-service-2.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] C:\Users\fox6s\.gradle\caches\transforms-2\files-2.1\7c0329b1fb16c6b044d038a66e8edda0\lifecycle-runtime-2.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\fox6s\.gradle\caches\transforms-2\files-2.1\5744dccf99fe19483424d5f9b67e3b0e\versionedparcelable-1.1.0\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.2.0] C:\Users\fox6s\.gradle\caches\transforms-2\files-2.1\ce38527d559768fe7192db53a5fc6484\jetified-lifecycle-livedata-core-ktx-2.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\fox6s\.gradle\caches\transforms-2\files-2.1\042115489aeae6a889d2f93740b4787c\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.sqlite:sqlite-framework:2.0.1] C:\Users\fox6s\.gradle\caches\transforms-2\files-2.1\6e043cccdd8d54433b7f6a7e365dd05e\sqlite-framework-2.0.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.sqlite:sqlite:2.0.1] C:\Users\fox6s\.gradle\caches\transforms-2\files-2.1\1082187aa8431a785cea4d4d40bbdc7c\sqlite-2.0.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.2.0] C:\Users\fox6s\.gradle\caches\transforms-2\files-2.1\7dc777e5a97e601305c43a071ef925b4\lifecycle-livedata-2.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.2.0] C:\Users\fox6s\.gradle\caches\transforms-2\files-2.1\74ff329526a2006219ece48828329b5d\jetified-lifecycle-viewmodel-savedstate-2.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] C:\Users\fox6s\.gradle\caches\transforms-2\files-2.1\d3fabc1475090d36c1f2730edf5a39dd\lifecycle-livedata-core-2.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\fox6s\.gradle\caches\transforms-2\files-2.1\541c6ed3512723c7e9c1d37e41bb7e99\core-runtime-2.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\fox6s\.gradle\caches\transforms-2\files-2.1\baa12ef27f95606972c48f59a0531936\jetified-savedstate-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] C:\Users\fox6s\.gradle\caches\transforms-2\files-2.1\93b35725949456699112c7efb4297dda\lifecycle-viewmodel-2.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\fox6s\.gradle\caches\transforms-2\files-2.1\36be953a508bb04fd2ff43a21010167c\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\fox6s\.gradle\caches\transforms-2\files-2.1\b7f4b5a6a93447a7a07eb3604def7f03\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\fox6s\.gradle\caches\transforms-2\files-2.1\b21b12b871fda74d354136588943b8e4\print-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\fox6s\.gradle\caches\transforms-2\files-2.1\85a28927ede562dade1a318ec2fcbe26\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\fox6s\.gradle\caches\transforms-2\files-2.1\6084deef4f6562b1c1136810e45ed648\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\fox6s\OneDrive\Desktop\Spring 2022\CSCE 546\SleepTrackerFP\SleepTracker\app\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from C:\Users\fox6s\OneDrive\Desktop\Spring 2022\CSCE 546\SleepTrackerFP\SleepTracker\app\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from C:\Users\fox6s\OneDrive\Desktop\Spring 2022\CSCE 546\SleepTrackerFP\SleepTracker\app\src\main\AndroidManifest.xml:2:1-24:12
+	package
+		ADDED from C:\Users\fox6s\OneDrive\Desktop\Spring 2022\CSCE 546\SleepTrackerFP\SleepTracker\app\src\main\AndroidManifest.xml:3:5-54
+		INJECTED from C:\Users\fox6s\OneDrive\Desktop\Spring 2022\CSCE 546\SleepTrackerFP\SleepTracker\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\fox6s\OneDrive\Desktop\Spring 2022\CSCE 546\SleepTrackerFP\SleepTracker\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\fox6s\OneDrive\Desktop\Spring 2022\CSCE 546\SleepTrackerFP\SleepTracker\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\fox6s\OneDrive\Desktop\Spring 2022\CSCE 546\SleepTrackerFP\SleepTracker\app\src\main\AndroidManifest.xml:2:1-24:12
+		INJECTED from C:\Users\fox6s\OneDrive\Desktop\Spring 2022\CSCE 546\SleepTrackerFP\SleepTracker\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\fox6s\OneDrive\Desktop\Spring 2022\CSCE 546\SleepTrackerFP\SleepTracker\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\fox6s\OneDrive\Desktop\Spring 2022\CSCE 546\SleepTrackerFP\SleepTracker\app\src\main\AndroidManifest.xml:2:1-24:12
+		INJECTED from C:\Users\fox6s\OneDrive\Desktop\Spring 2022\CSCE 546\SleepTrackerFP\SleepTracker\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\fox6s\OneDrive\Desktop\Spring 2022\CSCE 546\SleepTrackerFP\SleepTracker\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from C:\Users\fox6s\OneDrive\Desktop\Spring 2022\CSCE 546\SleepTrackerFP\SleepTracker\app\src\main\AndroidManifest.xml:5:5-22:19
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.2] C:\Users\fox6s\.gradle\caches\transforms-2\files-2.1\cbb457776a0c14046844d7bef9da6120\constraintlayout-2.0.2\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.2] C:\Users\fox6s\.gradle\caches\transforms-2\files-2.1\cbb457776a0c14046844d7bef9da6120\constraintlayout-2.0.2\AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\fox6s\.gradle\caches\transforms-2\files-2.1\6313674d6cdff6678cb976c21c941c42\material-1.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\fox6s\.gradle\caches\transforms-2\files-2.1\6313674d6cdff6678cb976c21c941c42\material-1.0.0\AndroidManifest.xml:22:5-20
+MERGED from [androidx.room:room-runtime:2.2.5] C:\Users\fox6s\.gradle\caches\transforms-2\files-2.1\dd9bcf731148a5cfdde922fa0b85a3f9\room-runtime-2.2.5\AndroidManifest.xml:24:5-29:19
+MERGED from [androidx.room:room-runtime:2.2.5] C:\Users\fox6s\.gradle\caches\transforms-2\files-2.1\dd9bcf731148a5cfdde922fa0b85a3f9\room-runtime-2.2.5\AndroidManifest.xml:24:5-29:19
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] C:\Users\fox6s\.gradle\caches\transforms-2\files-2.1\e1c4769f6a235902d0c8498480aaea2b\lifecycle-extensions-2.2.0\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] C:\Users\fox6s\.gradle\caches\transforms-2\files-2.1\e1c4769f6a235902d0c8498480aaea2b\lifecycle-extensions-2.2.0\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.core:core:1.3.2] C:\Users\fox6s\.gradle\caches\transforms-2\files-2.1\9aa2b8ea9b71bb555b0ecf503d5f1caf\core-1.3.2\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.3.2] C:\Users\fox6s\.gradle\caches\transforms-2\files-2.1\9aa2b8ea9b71bb555b0ecf503d5f1caf\core-1.3.2\AndroidManifest.xml:24:5-89
+MERGED from [androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\fox6s\.gradle\caches\transforms-2\files-2.1\27d38f6588bb09b95df2f2a0cdcdb99d\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:24:5-30:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\fox6s\.gradle\caches\transforms-2\files-2.1\27d38f6588bb09b95df2f2a0cdcdb99d\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:24:5-30:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\fox6s\.gradle\caches\transforms-2\files-2.1\5744dccf99fe19483424d5f9b67e3b0e\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\fox6s\.gradle\caches\transforms-2\files-2.1\5744dccf99fe19483424d5f9b67e3b0e\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.3.2] C:\Users\fox6s\.gradle\caches\transforms-2\files-2.1\9aa2b8ea9b71bb555b0ecf503d5f1caf\core-1.3.2\AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from C:\Users\fox6s\OneDrive\Desktop\Spring 2022\CSCE 546\SleepTrackerFP\SleepTracker\app\src\main\AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from C:\Users\fox6s\OneDrive\Desktop\Spring 2022\CSCE 546\SleepTrackerFP\SleepTracker\app\src\main\AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from C:\Users\fox6s\OneDrive\Desktop\Spring 2022\CSCE 546\SleepTrackerFP\SleepTracker\app\src\main\AndroidManifest.xml:9:9-68
+	android:icon
+		ADDED from C:\Users\fox6s\OneDrive\Desktop\Spring 2022\CSCE 546\SleepTrackerFP\SleepTracker\app\src\main\AndroidManifest.xml:7:9-57
+	android:allowBackup
+		ADDED from C:\Users\fox6s\OneDrive\Desktop\Spring 2022\CSCE 546\SleepTrackerFP\SleepTracker\app\src\main\AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from C:\Users\fox6s\OneDrive\Desktop\Spring 2022\CSCE 546\SleepTrackerFP\SleepTracker\app\src\main\AndroidManifest.xml:11:9-40
+activity#com.example.android.trackmysleepquality.MainActivity
+ADDED from C:\Users\fox6s\OneDrive\Desktop\Spring 2022\CSCE 546\SleepTrackerFP\SleepTracker\app\src\main\AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from C:\Users\fox6s\OneDrive\Desktop\Spring 2022\CSCE 546\SleepTrackerFP\SleepTracker\app\src\main\AndroidManifest.xml:12:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\fox6s\OneDrive\Desktop\Spring 2022\CSCE 546\SleepTrackerFP\SleepTracker\app\src\main\AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\fox6s\OneDrive\Desktop\Spring 2022\CSCE 546\SleepTrackerFP\SleepTracker\app\src\main\AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from C:\Users\fox6s\OneDrive\Desktop\Spring 2022\CSCE 546\SleepTrackerFP\SleepTracker\app\src\main\AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\fox6s\OneDrive\Desktop\Spring 2022\CSCE 546\SleepTrackerFP\SleepTracker\app\src\main\AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from C:\Users\fox6s\OneDrive\Desktop\Spring 2022\CSCE 546\SleepTrackerFP\SleepTracker\app\src\main\AndroidManifest.xml:16:27-74
+meta-data#preloaded_fonts
+ADDED from C:\Users\fox6s\OneDrive\Desktop\Spring 2022\CSCE 546\SleepTrackerFP\SleepTracker\app\src\main\AndroidManifest.xml:19:9-21:57
+	android:resource
+		ADDED from C:\Users\fox6s\OneDrive\Desktop\Spring 2022\CSCE 546\SleepTrackerFP\SleepTracker\app\src\main\AndroidManifest.xml:21:13-54
+	android:name
+		ADDED from C:\Users\fox6s\OneDrive\Desktop\Spring 2022\CSCE 546\SleepTrackerFP\SleepTracker\app\src\main\AndroidManifest.xml:20:13-43
+uses-sdk
+INJECTED from C:\Users\fox6s\OneDrive\Desktop\Spring 2022\CSCE 546\SleepTrackerFP\SleepTracker\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\fox6s\OneDrive\Desktop\Spring 2022\CSCE 546\SleepTrackerFP\SleepTracker\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\fox6s\OneDrive\Desktop\Spring 2022\CSCE 546\SleepTrackerFP\SleepTracker\app\src\main\AndroidManifest.xml
+MERGED from [androidx.databinding:databinding-adapters:4.1.0] C:\Users\fox6s\.gradle\caches\transforms-2\files-2.1\9b46894b7cad23c90a06337af1be3a79\databinding-adapters-4.1.0\AndroidManifest.xml:22:5-44
+MERGED from [androidx.databinding:databinding-adapters:4.1.0] C:\Users\fox6s\.gradle\caches\transforms-2\files-2.1\9b46894b7cad23c90a06337af1be3a79\databinding-adapters-4.1.0\AndroidManifest.xml:22:5-44
+MERGED from [androidx.databinding:databinding-runtime:4.1.0] C:\Users\fox6s\.gradle\caches\transforms-2\files-2.1\79e7664daf3b68488489f3b78a41fa7c\databinding-runtime-4.1.0\AndroidManifest.xml:22:5-44
+MERGED from [androidx.databinding:databinding-runtime:4.1.0] C:\Users\fox6s\.gradle\caches\transforms-2\files-2.1\79e7664daf3b68488489f3b78a41fa7c\databinding-runtime-4.1.0\AndroidManifest.xml:22:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.2] C:\Users\fox6s\.gradle\caches\transforms-2\files-2.1\cbb457776a0c14046844d7bef9da6120\constraintlayout-2.0.2\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.2] C:\Users\fox6s\.gradle\caches\transforms-2\files-2.1\cbb457776a0c14046844d7bef9da6120\constraintlayout-2.0.2\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.navigation:navigation-ui-ktx:2.0.0] C:\Users\fox6s\.gradle\caches\transforms-2\files-2.1\bc170dcc14c4653578a71b07c382e094\navigation-ui-ktx-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-ui-ktx:2.0.0] C:\Users\fox6s\.gradle\caches\transforms-2\files-2.1\bc170dcc14c4653578a71b07c382e094\navigation-ui-ktx-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-ui:2.0.0] C:\Users\fox6s\.gradle\caches\transforms-2\files-2.1\0a749ac22e533e375004d2cfe0aa07f8\navigation-ui-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-ui:2.0.0] C:\Users\fox6s\.gradle\caches\transforms-2\files-2.1\0a749ac22e533e375004d2cfe0aa07f8\navigation-ui-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\fox6s\.gradle\caches\transforms-2\files-2.1\6313674d6cdff6678cb976c21c941c42\material-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\fox6s\.gradle\caches\transforms-2\files-2.1\6313674d6cdff6678cb976c21c941c42\material-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.2.0] C:\Users\fox6s\.gradle\caches\transforms-2\files-2.1\fda540508b1510d0c46ab14a4b940fca\appcompat-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.2.0] C:\Users\fox6s\.gradle\caches\transforms-2\files-2.1\fda540508b1510d0c46ab14a4b940fca\appcompat-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment-ktx:1.2.5] C:\Users\fox6s\.gradle\caches\transforms-2\files-2.1\018324eec136f5d95af553f57c18175e\jetified-fragment-ktx-1.2.5\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment-ktx:1.2.5] C:\Users\fox6s\.gradle\caches\transforms-2\files-2.1\018324eec136f5d95af553f57c18175e\jetified-fragment-ktx-1.2.5\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity-ktx:1.1.0] C:\Users\fox6s\.gradle\caches\transforms-2\files-2.1\ef5c7e061d98bc322cdff43db0526d15\jetified-activity-ktx-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity-ktx:1.1.0] C:\Users\fox6s\.gradle\caches\transforms-2\files-2.1\ef5c7e061d98bc322cdff43db0526d15\jetified-activity-ktx-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core-ktx:1.3.2] C:\Users\fox6s\.gradle\caches\transforms-2\files-2.1\395f7786d33fedd6c0ea0d3a2c940bbf\jetified-core-ktx-1.3.2\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core-ktx:1.3.2] C:\Users\fox6s\.gradle\caches\transforms-2\files-2.1\395f7786d33fedd6c0ea0d3a2c940bbf\jetified-core-ktx-1.3.2\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.room:room-ktx:2.2.5] C:\Users\fox6s\.gradle\caches\transforms-2\files-2.1\de77ed8435859d935cf24c984747e9a0\jetified-room-ktx-2.2.5\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.room:room-ktx:2.2.5] C:\Users\fox6s\.gradle\caches\transforms-2\files-2.1\de77ed8435859d935cf24c984747e9a0\jetified-room-ktx-2.2.5\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.room:room-runtime:2.2.5] C:\Users\fox6s\.gradle\caches\transforms-2\files-2.1\dd9bcf731148a5cfdde922fa0b85a3f9\room-runtime-2.2.5\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.room:room-runtime:2.2.5] C:\Users\fox6s\.gradle\caches\transforms-2\files-2.1\dd9bcf731148a5cfdde922fa0b85a3f9\room-runtime-2.2.5\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\fox6s\.gradle\caches\transforms-2\files-2.1\35c0755f23fdec51828f83b8f0b3ad15\legacy-support-v4-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\fox6s\.gradle\caches\transforms-2\files-2.1\35c0755f23fdec51828f83b8f0b3ad15\legacy-support-v4-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] C:\Users\fox6s\.gradle\caches\transforms-2\files-2.1\e1c4769f6a235902d0c8498480aaea2b\lifecycle-extensions-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] C:\Users\fox6s\.gradle\caches\transforms-2\files-2.1\e1c4769f6a235902d0c8498480aaea2b\lifecycle-extensions-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.2.0] C:\Users\fox6s\.gradle\caches\transforms-2\files-2.1\753e36924b6a0fa275ea79ea6c52778f\jetified-lifecycle-viewmodel-ktx-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.2.0] C:\Users\fox6s\.gradle\caches\transforms-2\files-2.1\753e36924b6a0fa275ea79ea6c52778f\jetified-lifecycle-viewmodel-ktx-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.2.0] C:\Users\fox6s\.gradle\caches\transforms-2\files-2.1\d8cdb9a01c952b4ea2497eaac074acad\jetified-lifecycle-runtime-ktx-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.2.0] C:\Users\fox6s\.gradle\caches\transforms-2\files-2.1\d8cdb9a01c952b4ea2497eaac074acad\jetified-lifecycle-runtime-ktx-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-fragment-ktx:2.0.0] C:\Users\fox6s\.gradle\caches\transforms-2\files-2.1\87a7535e89392a424626627e9e5fa1e1\navigation-fragment-ktx-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-fragment-ktx:2.0.0] C:\Users\fox6s\.gradle\caches\transforms-2\files-2.1\87a7535e89392a424626627e9e5fa1e1\navigation-fragment-ktx-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.databinding:viewbinding:4.1.0] C:\Users\fox6s\.gradle\caches\transforms-2\files-2.1\75ead458e36dffbb8a55caf133889e39\jetified-viewbinding-4.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.databinding:viewbinding:4.1.0] C:\Users\fox6s\.gradle\caches\transforms-2\files-2.1\75ead458e36dffbb8a55caf133889e39\jetified-viewbinding-4.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] C:\Users\fox6s\.gradle\caches\transforms-2\files-2.1\be88c65efe134d7c92d603fc6abab799\jetified-appcompat-resources-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] C:\Users\fox6s\.gradle\caches\transforms-2\files-2.1\be88c65efe134d7c92d603fc6abab799\jetified-appcompat-resources-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\fox6s\.gradle\caches\transforms-2\files-2.1\2b451bb2884a33bf17f68f63485ebc72\recyclerview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\fox6s\.gradle\caches\transforms-2\files-2.1\2b451bb2884a33bf17f68f63485ebc72\recyclerview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\fox6s\.gradle\caches\transforms-2\files-2.1\d967de4bbb9240374f44f1e48ff67dc2\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\fox6s\.gradle\caches\transforms-2\files-2.1\d967de4bbb9240374f44f1e48ff67dc2\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\fox6s\.gradle\caches\transforms-2\files-2.1\d1cb4878ec7c5c1b85166c0929ee2847\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\fox6s\.gradle\caches\transforms-2\files-2.1\d1cb4878ec7c5c1b85166c0929ee2847\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-fragment:2.0.0] C:\Users\fox6s\.gradle\caches\transforms-2\files-2.1\d64275a05c3b916e1b500adee37a8d27\navigation-fragment-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-fragment:2.0.0] C:\Users\fox6s\.gradle\caches\transforms-2\files-2.1\d64275a05c3b916e1b500adee37a8d27\navigation-fragment-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.2.5] C:\Users\fox6s\.gradle\caches\transforms-2\files-2.1\879e4ce029786b908297660debf38c6f\fragment-1.2.5\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.2.5] C:\Users\fox6s\.gradle\caches\transforms-2\files-2.1\879e4ce029786b908297660debf38c6f\fragment-1.2.5\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.media:media:1.0.0] C:\Users\fox6s\.gradle\caches\transforms-2\files-2.1\072501fd199012cc729bb8ccfa5f3f15\media-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] C:\Users\fox6s\.gradle\caches\transforms-2\files-2.1\072501fd199012cc729bb8ccfa5f3f15\media-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.0.0] C:\Users\fox6s\.gradle\caches\transforms-2\files-2.1\ea94c84cae0973664d75488467b98955\navigation-runtime-ktx-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.0.0] C:\Users\fox6s\.gradle\caches\transforms-2\files-2.1\ea94c84cae0973664d75488467b98955\navigation-runtime-ktx-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-runtime:2.0.0] C:\Users\fox6s\.gradle\caches\transforms-2\files-2.1\2bcf98ff4bddcbcf214961beed67d105\navigation-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-runtime:2.0.0] C:\Users\fox6s\.gradle\caches\transforms-2\files-2.1\2bcf98ff4bddcbcf214961beed67d105\navigation-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\fox6s\.gradle\caches\transforms-2\files-2.1\dc60b17551ac443af24c83866f97287d\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\fox6s\.gradle\caches\transforms-2\files-2.1\dc60b17551ac443af24c83866f97287d\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\fox6s\.gradle\caches\transforms-2\files-2.1\870e764a2daec768ab02585699cc6cfd\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\fox6s\.gradle\caches\transforms-2\files-2.1\870e764a2daec768ab02585699cc6cfd\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\fox6s\.gradle\caches\transforms-2\files-2.1\12ddd7f4a0e10b0ef584c412d9f5ed52\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\fox6s\.gradle\caches\transforms-2\files-2.1\12ddd7f4a0e10b0ef584c412d9f5ed52\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\fox6s\.gradle\caches\transforms-2\files-2.1\e63e50220a433b33c30343f520e76616\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\fox6s\.gradle\caches\transforms-2\files-2.1\e63e50220a433b33c30343f520e76616\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\fox6s\.gradle\caches\transforms-2\files-2.1\866c0bacb481e703e473cc346f67106b\coordinatorlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\fox6s\.gradle\caches\transforms-2\files-2.1\866c0bacb481e703e473cc346f67106b\coordinatorlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\fox6s\.gradle\caches\transforms-2\files-2.1\26c14a327b314599f8442fe1b3e87751\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\fox6s\.gradle\caches\transforms-2\files-2.1\26c14a327b314599f8442fe1b3e87751\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\fox6s\.gradle\caches\transforms-2\files-2.1\4854175b4a14401129bad1fc2ccf1bf6\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\fox6s\.gradle\caches\transforms-2\files-2.1\4854175b4a14401129bad1fc2ccf1bf6\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\fox6s\.gradle\caches\transforms-2\files-2.1\f8dd099778ea5183d283b407e7f911d3\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\fox6s\.gradle\caches\transforms-2\files-2.1\f8dd099778ea5183d283b407e7f911d3\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.1.0] C:\Users\fox6s\.gradle\caches\transforms-2\files-2.1\8364decd45b54552e0d8466d8b1d67a8\jetified-activity-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.1.0] C:\Users\fox6s\.gradle\caches\transforms-2\files-2.1\8364decd45b54552e0d8466d8b1d67a8\jetified-activity-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\fox6s\.gradle\caches\transforms-2\files-2.1\17d3af4422ee31e12ac2e0f28230d7fc\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\fox6s\.gradle\caches\transforms-2\files-2.1\17d3af4422ee31e12ac2e0f28230d7fc\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\fox6s\.gradle\caches\transforms-2\files-2.1\d80bf2ad9db8e5d4851acbab0b50016a\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\fox6s\.gradle\caches\transforms-2\files-2.1\d80bf2ad9db8e5d4851acbab0b50016a\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-common-ktx:2.0.0] C:\Users\fox6s\.gradle\caches\transforms-2\files-2.1\6100d47069c580c1f60f086083763b65\navigation-common-ktx-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-common-ktx:2.0.0] C:\Users\fox6s\.gradle\caches\transforms-2\files-2.1\6100d47069c580c1f60f086083763b65\navigation-common-ktx-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-common:2.0.0] C:\Users\fox6s\.gradle\caches\transforms-2\files-2.1\d5eec24373b476f487639b3d8d50396d\navigation-common-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-common:2.0.0] C:\Users\fox6s\.gradle\caches\transforms-2\files-2.1\d5eec24373b476f487639b3d8d50396d\navigation-common-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0] C:\Users\fox6s\.gradle\caches\transforms-2\files-2.1\e87fb08f372e50f50ad7444dfe9087e1\transition-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0] C:\Users\fox6s\.gradle\caches\transforms-2\files-2.1\e87fb08f372e50f50ad7444dfe9087e1\transition-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.3.2] C:\Users\fox6s\.gradle\caches\transforms-2\files-2.1\9aa2b8ea9b71bb555b0ecf503d5f1caf\core-1.3.2\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.3.2] C:\Users\fox6s\.gradle\caches\transforms-2\files-2.1\9aa2b8ea9b71bb555b0ecf503d5f1caf\core-1.3.2\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\fox6s\.gradle\caches\transforms-2\files-2.1\27d38f6588bb09b95df2f2a0cdcdb99d\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\fox6s\.gradle\caches\transforms-2\files-2.1\27d38f6588bb09b95df2f2a0cdcdb99d\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-service:2.2.0] C:\Users\fox6s\.gradle\caches\transforms-2\files-2.1\6fdb02501027a1f1b65624806d68657f\jetified-lifecycle-service-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-service:2.2.0] C:\Users\fox6s\.gradle\caches\transforms-2\files-2.1\6fdb02501027a1f1b65624806d68657f\jetified-lifecycle-service-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] C:\Users\fox6s\.gradle\caches\transforms-2\files-2.1\7c0329b1fb16c6b044d038a66e8edda0\lifecycle-runtime-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] C:\Users\fox6s\.gradle\caches\transforms-2\files-2.1\7c0329b1fb16c6b044d038a66e8edda0\lifecycle-runtime-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\fox6s\.gradle\caches\transforms-2\files-2.1\5744dccf99fe19483424d5f9b67e3b0e\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\fox6s\.gradle\caches\transforms-2\files-2.1\5744dccf99fe19483424d5f9b67e3b0e\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.2.0] C:\Users\fox6s\.gradle\caches\transforms-2\files-2.1\ce38527d559768fe7192db53a5fc6484\jetified-lifecycle-livedata-core-ktx-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.2.0] C:\Users\fox6s\.gradle\caches\transforms-2\files-2.1\ce38527d559768fe7192db53a5fc6484\jetified-lifecycle-livedata-core-ktx-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\fox6s\.gradle\caches\transforms-2\files-2.1\042115489aeae6a889d2f93740b4787c\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\fox6s\.gradle\caches\transforms-2\files-2.1\042115489aeae6a889d2f93740b4787c\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite-framework:2.0.1] C:\Users\fox6s\.gradle\caches\transforms-2\files-2.1\6e043cccdd8d54433b7f6a7e365dd05e\sqlite-framework-2.0.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite-framework:2.0.1] C:\Users\fox6s\.gradle\caches\transforms-2\files-2.1\6e043cccdd8d54433b7f6a7e365dd05e\sqlite-framework-2.0.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite:2.0.1] C:\Users\fox6s\.gradle\caches\transforms-2\files-2.1\1082187aa8431a785cea4d4d40bbdc7c\sqlite-2.0.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite:2.0.1] C:\Users\fox6s\.gradle\caches\transforms-2\files-2.1\1082187aa8431a785cea4d4d40bbdc7c\sqlite-2.0.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.2.0] C:\Users\fox6s\.gradle\caches\transforms-2\files-2.1\7dc777e5a97e601305c43a071ef925b4\lifecycle-livedata-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.2.0] C:\Users\fox6s\.gradle\caches\transforms-2\files-2.1\7dc777e5a97e601305c43a071ef925b4\lifecycle-livedata-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.2.0] C:\Users\fox6s\.gradle\caches\transforms-2\files-2.1\74ff329526a2006219ece48828329b5d\jetified-lifecycle-viewmodel-savedstate-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.2.0] C:\Users\fox6s\.gradle\caches\transforms-2\files-2.1\74ff329526a2006219ece48828329b5d\jetified-lifecycle-viewmodel-savedstate-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] C:\Users\fox6s\.gradle\caches\transforms-2\files-2.1\d3fabc1475090d36c1f2730edf5a39dd\lifecycle-livedata-core-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] C:\Users\fox6s\.gradle\caches\transforms-2\files-2.1\d3fabc1475090d36c1f2730edf5a39dd\lifecycle-livedata-core-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\fox6s\.gradle\caches\transforms-2\files-2.1\541c6ed3512723c7e9c1d37e41bb7e99\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\fox6s\.gradle\caches\transforms-2\files-2.1\541c6ed3512723c7e9c1d37e41bb7e99\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\fox6s\.gradle\caches\transforms-2\files-2.1\baa12ef27f95606972c48f59a0531936\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\fox6s\.gradle\caches\transforms-2\files-2.1\baa12ef27f95606972c48f59a0531936\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] C:\Users\fox6s\.gradle\caches\transforms-2\files-2.1\93b35725949456699112c7efb4297dda\lifecycle-viewmodel-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] C:\Users\fox6s\.gradle\caches\transforms-2\files-2.1\93b35725949456699112c7efb4297dda\lifecycle-viewmodel-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\fox6s\.gradle\caches\transforms-2\files-2.1\36be953a508bb04fd2ff43a21010167c\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\fox6s\.gradle\caches\transforms-2\files-2.1\36be953a508bb04fd2ff43a21010167c\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\fox6s\.gradle\caches\transforms-2\files-2.1\b7f4b5a6a93447a7a07eb3604def7f03\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\fox6s\.gradle\caches\transforms-2\files-2.1\b7f4b5a6a93447a7a07eb3604def7f03\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\fox6s\.gradle\caches\transforms-2\files-2.1\b21b12b871fda74d354136588943b8e4\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\fox6s\.gradle\caches\transforms-2\files-2.1\b21b12b871fda74d354136588943b8e4\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\fox6s\.gradle\caches\transforms-2\files-2.1\85a28927ede562dade1a318ec2fcbe26\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\fox6s\.gradle\caches\transforms-2\files-2.1\85a28927ede562dade1a318ec2fcbe26\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\fox6s\.gradle\caches\transforms-2\files-2.1\6084deef4f6562b1c1136810e45ed648\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\fox6s\.gradle\caches\transforms-2\files-2.1\6084deef4f6562b1c1136810e45ed648\cardview-1.0.0\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\fox6s\OneDrive\Desktop\Spring 2022\CSCE 546\SleepTrackerFP\SleepTracker\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\fox6s\OneDrive\Desktop\Spring 2022\CSCE 546\SleepTrackerFP\SleepTracker\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\fox6s\OneDrive\Desktop\Spring 2022\CSCE 546\SleepTrackerFP\SleepTracker\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\fox6s\OneDrive\Desktop\Spring 2022\CSCE 546\SleepTrackerFP\SleepTracker\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\fox6s\OneDrive\Desktop\Spring 2022\CSCE 546\SleepTrackerFP\SleepTracker\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\fox6s\OneDrive\Desktop\Spring 2022\CSCE 546\SleepTrackerFP\SleepTracker\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\fox6s\OneDrive\Desktop\Spring 2022\CSCE 546\SleepTrackerFP\SleepTracker\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\fox6s\OneDrive\Desktop\Spring 2022\CSCE 546\SleepTrackerFP\SleepTracker\app\src\main\AndroidManifest.xml
+service#androidx.room.MultiInstanceInvalidationService
+ADDED from [androidx.room:room-runtime:2.2.5] C:\Users\fox6s\.gradle\caches\transforms-2\files-2.1\dd9bcf731148a5cfdde922fa0b85a3f9\room-runtime-2.2.5\AndroidManifest.xml:25:9-28:40
+	android:exported
+		ADDED from [androidx.room:room-runtime:2.2.5] C:\Users\fox6s\.gradle\caches\transforms-2\files-2.1\dd9bcf731148a5cfdde922fa0b85a3f9\room-runtime-2.2.5\AndroidManifest.xml:28:13-37
+	android:directBootAware
+		ADDED from [androidx.room:room-runtime:2.2.5] C:\Users\fox6s\.gradle\caches\transforms-2\files-2.1\dd9bcf731148a5cfdde922fa0b85a3f9\room-runtime-2.2.5\AndroidManifest.xml:27:13-43
+	android:name
+		ADDED from [androidx.room:room-runtime:2.2.5] C:\Users\fox6s\.gradle\caches\transforms-2\files-2.1\dd9bcf731148a5cfdde922fa0b85a3f9\room-runtime-2.2.5\AndroidManifest.xml:26:13-74
+provider#androidx.lifecycle.ProcessLifecycleOwnerInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\fox6s\.gradle\caches\transforms-2\files-2.1\27d38f6588bb09b95df2f2a0cdcdb99d\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:25:9-29:43
+	android:authorities
+		ADDED from [androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\fox6s\.gradle\caches\transforms-2\files-2.1\27d38f6588bb09b95df2f2a0cdcdb99d\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:27:13-69
+	android:multiprocess
+		ADDED from [androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\fox6s\.gradle\caches\transforms-2\files-2.1\27d38f6588bb09b95df2f2a0cdcdb99d\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:29:13-40
+	android:exported
+		ADDED from [androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\fox6s\.gradle\caches\transforms-2\files-2.1\27d38f6588bb09b95df2f2a0cdcdb99d\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:28:13-37
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\fox6s\.gradle\caches\transforms-2\files-2.1\27d38f6588bb09b95df2f2a0cdcdb99d\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:26:13-79
