@@ -1,0 +1,30 @@
+Written by Cort Miles and James/Bryson Carrol
+============================================================
+
+Requirements
+------------
+
+-Two Activities that implement a useful function
+-Data must transfer between the two activities
+-Recycler View
+-Menu/Navigation Bar to help with app mobility
+-Needs to Fragments with at least one transition event
+
+
+How the app works
+---------------
+Our two activities include the opening screen the user can start and stop their sleep, and our second activity is
+allows the user to rate the quality of their sleep after they stop it.  Our useful function is tracking sleep for
+the user to better understand their sleeping habits.
+
+The data transfers through the two main activities by storing the ratings from the second activity in rows on the 
+first activity.
+
+The recycler view comes into play once the user has stopped and started enough sleep cycles to fill up the page.  
+At this point the new sleep cycles will then go below the scope of the page and the user can scroll up and down to
+find all their sleep cycle ratings.
+
+Our navigation comes in the form of our stop start and clear buttons.  The clear button deletes all stored data and
+resets the recycler view, and the second activity automatically returns to the main page when a rating is given.
+
+Our fragments come in the form of our sleep rating robots and the transition has them sliding in.
